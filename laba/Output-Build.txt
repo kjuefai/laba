@@ -1,0 +1,9 @@
+Build started at 8:24 PM...
+1>------ Build started: Project: laba, Configuration: Debug x64 ------
+1>lab.c
+1>C:\Users\kjuef\source\repos\laba\laba\lab.c(6,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\kjuef\source\repos\laba\laba\lab.c(75,13): warning C4013: 'modbubbleSort' undefined; assuming extern returning int
+1>laba.vcxproj -> C:\Users\kjuef\source\repos\laba\x64\Debug\laba.exe
+1>Done building project "laba.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:24 PM and took 00.292 seconds ==========
